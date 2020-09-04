@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "572679491986",
+    "firebase_url": "https://push-notifications-982d2.firebaseio.com",
+    "project_id": "push-notifications-982d2",
+    "storage_bucket": "push-notifications-982d2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:572679491986:android:b043f9b4aed090b6b9f14b",
+        "android_client_info": {
+          "package_name": "turpial.emplooy.colony"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "572679491986-5j347ml1nf6ubst6npkagor1l358akkv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "turpial.emplooy.colony",
+            "certificate_hash": "1163d65ca3131e32f01c42f19bb1a5700c2c1156"
+          }
+        },
+        {
+          "client_id": "572679491986-quit7t6i40hm6unb20no0e3h10o06hv5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDy4uH_u9EtQZBsIk-gThT8PWD2pygkcCA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "572679491986-quit7t6i40hm6unb20no0e3h10o06hv5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

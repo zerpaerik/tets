@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "990398771908",
+    "firebase_url": "https://emplooy-feb21.firebaseio.com",
+    "project_id": "emplooy-feb21",
+    "storage_bucket": "emplooy-feb21.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:990398771908:android:413d4090954b002c59cf91",
+        "android_client_info": {
+          "package_name": "turpial.emplooy.colony"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "990398771908-a95nrkcmp2u0drs27ufrq99uo507ommh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArhzIcn4HXyMN0nnzb-MLkOwygOaY9ouM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "990398771908-a95nrkcmp2u0drs27ufrq99uo507ommh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

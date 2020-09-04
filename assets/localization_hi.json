@@ -1,0 +1,34 @@
+{
+    "key_password": "Contraseña",
+    "key_email": "Correo Electronico",
+    "key_last_name": "Apellido",
+    "key_first_name": "Nombre",
+    "gender":"Género",
+    "key_next": "Siguiente",
+    "select_lang": "Seleccionar idioma",
+    "welcome": "Bienvenido",
+    "label_end_sesion": "Iniciar Sesión o Crear una Cuenta",
+    "button_sesiom":"Iniciar Sesión",
+    "button_register":"Crear Cuenta",
+    "label_recover_passwd":"¿Olvidaste la Clave?",
+    "sesion_social": "Ingresar Mediante",
+    "enter_data_login": "Ingresa los siguientes datos para acceder a la aplicación",
+    "register": "Crear Cuenta",
+    "submit": "Enviar",
+    "cancel": "Cancelar",
+    "register_btn": "Crear Cuenta en Emplooy",
+    "birth_date": "F.Nacimiento",
+    "confirmpasswd": "Confirmar Contraseña",
+    "text_recover" : "Para recuperar tu contraseña ingresa tu correo electrónico",
+    "send_code": "Ingresa el código",
+    "notif_code": "Te hemos enviado un email con un código para recuperar tus datos a la siguiente dirección:",
+    "text_code": "Si no recibes este email, por favor comprueba tu bandeja de correos no deseados",
+    "reenv_email": "Reenviar Correo",
+    "continue": "Continuar",
+    "label_recover_account":"¿Ya tienes una cuenta?"
+
+
+
+  
+
+  }
